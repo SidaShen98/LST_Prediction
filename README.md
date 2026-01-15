@@ -4,3 +4,9 @@
   <img src="Original.png" width="400">
   <img src="Predicted.png" width="400">
 </div>
+
+![eval](eval.png)
+
+![RandomForestRegression](RandomForestRegression.png)
+
+![LSTPredictionErrorDistribution](LSTPredictionErrorDistribution.png)
